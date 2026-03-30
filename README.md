@@ -6,11 +6,8 @@ Um projeto de clonagem da interface da Netflix Brasil, desenvolvido durante a **
 
 Este projeto recria a experiência visual da Netflix, incluindo:
 - Página de seleção de perfil
-- Home com catálogo de filmes e séries
 - **Sistema de Dark Mode e Light Mode** com persistência em localStorage
-- Design responsivo para dispositivos móveis, tablets e desktops
 - Efeitos hover e animações atraentes
-- Navegação intuitiva
 
 ## 📁 Estrutura do Projeto
 
@@ -24,12 +21,6 @@ Alura Imersão FRONT-END/
 ├── assets/             # Pasta de imagens e recursos
 │   ├── perfil1.png
 │   ├── perfil2.png
-│   ├── filme1.jpg
-│   ├── filme2.jpg
-│   ├── filme3.jpg
-│   ├── filme4.jpg
-│   ├── filme5.jpg
-│   └── filme6.jpg
 │
 └── README.md           # Este arquivo
 ```
